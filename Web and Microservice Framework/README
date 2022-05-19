@@ -1,0 +1,7 @@
+Extra Credit Implementation
+
+EC Feature: General wildcards in routes
+
+Instruction: 
+1. See TestSplat.java, where splat() function has been fully tested.
+2. Test manually by registering routes with splat, e.g. get("/say/*/to/*", ...).
